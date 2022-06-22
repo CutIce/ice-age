@@ -8,7 +8,7 @@ active: true
 design:
   columns: "1"
   background:
-    color: "#000000"
+    color: "#5c93dd"
     text_color_light: true
     image: touxiang.jpg
 ---
