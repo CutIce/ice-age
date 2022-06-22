@@ -15,4 +15,3 @@ superuser: true
 status:
   icon: ☕️
 ---
-\
