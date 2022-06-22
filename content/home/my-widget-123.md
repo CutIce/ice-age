@@ -2,7 +2,7 @@
 widget: homepage
 widget_id: my-widget-123
 headless: true
-weight: 2
+weight: 0
 title: Home
 active: true
 design:
@@ -10,6 +10,6 @@ design:
   background:
     text_color_light: false
     image_darken: ""
-    image: icon.png
+    image: touxiang.jpg
 ---
 homepage
