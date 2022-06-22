@@ -2,7 +2,7 @@
 widget: pages
 widget_id: pages
 headless: true
-weight: 30
+weight: 10
 title: Posts
 subtitle: ""
 active: true
@@ -26,6 +26,7 @@ design:
   background:
     image: 7.jpg
     image_darken: 0
+    color: "#6059c2"
   spacing:
     padding:
       - 0
