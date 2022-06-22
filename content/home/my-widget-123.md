@@ -2,9 +2,9 @@
 widget: idnex
 widget_id: my-widget-123
 headless: true
-weight: 10
+weight: 0
 title: index
-active: true
+active: false
 design:
   columns: "1"
   background:
