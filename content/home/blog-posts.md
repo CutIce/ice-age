@@ -23,7 +23,9 @@ design:
   columns: "1"
   view: card
   flip_alt_rows: true
-  background: {}
+  background:
+    image: 7.jpg
+    image_darken: 0
   spacing:
     padding:
       - 0
