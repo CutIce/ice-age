@@ -2,7 +2,7 @@
 widget: pages
 widget_id: pages
 headless: true
-weight: 3
+weight: 30
 title: Posts
 subtitle: ""
 active: true
@@ -20,7 +20,7 @@ content:
   archive:
     enable: false
 design:
-  columns: "4"
+  columns: "1"
   view: card
   flip_alt_rows: true
   background: {}
@@ -31,3 +31,4 @@ design:
       - 0
       - 0
 ---
+Posts
