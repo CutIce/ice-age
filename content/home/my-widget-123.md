@@ -2,7 +2,7 @@
 widget: homepage
 widget_id: my-widget-123
 headless: true
-weight: 0
+weight: 10
 title: Home
 active: true
 design:
