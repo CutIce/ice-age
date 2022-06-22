@@ -1,10 +1,11 @@
 ---
 widget: about.avatar
-headless: true
-weight: 10
+active: true
 author: admin
 widget_id: RECENT-POSTS
-active: true
+headless: true
+weight: 10
+title: Intro
 design:
   columns: "1"
   background:
