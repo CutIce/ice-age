@@ -4,10 +4,10 @@ active: true
 author: admin
 widget_id: RECENT-POSTS
 headless: true
-weight: 0
+weight: 10
 title: Intro
 design:
-  columns: "1"
+  columns: "2"
   background:
     color: "#5c93dd"
     text_color_light: true
