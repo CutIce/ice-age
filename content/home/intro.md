@@ -10,5 +10,6 @@ design:
   background:
     color: "#000000"
     text_color_light: true
+    image: touxiang.jpg
 ---
 🐈 Hey! 这里是Avalanche, ME@SJTU.
