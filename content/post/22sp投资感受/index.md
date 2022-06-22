@@ -1,6 +1,7 @@
 ---
 title: 22SP投资感受
 date: 2022-06-22T07:46:33.802Z
+summary: ssau u
 draft: false
 featured: false
 authors:
@@ -10,7 +11,8 @@ tags:
 image:
   filename: 2.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
+  alt_text: summary for my investment in 22SP
 ---
 <!--StartFragment-->
 
