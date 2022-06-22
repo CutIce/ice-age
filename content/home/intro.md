@@ -7,7 +7,7 @@ headless: true
 weight: 10
 title: Intro
 design:
-  columns: "2"
+  columns: "1"
   background:
     color: "#5c93dd"
     text_color_light: true
