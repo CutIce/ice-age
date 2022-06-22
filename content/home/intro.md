@@ -1,7 +1,7 @@
 ---
 widget: about.avatar
 headless: true
-weight: 1
+weight: 10
 author: admin
 widget_id: RECENT-POSTS
 active: true
