@@ -4,7 +4,7 @@ active: true
 author: admin
 widget_id: RECENT-POSTS
 headless: true
-weight: 10
+weight: 0
 title: Intro
 design:
   columns: "1"
