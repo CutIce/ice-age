@@ -3,10 +3,11 @@ title: 22SP投资感受
 date: 2022-06-22T07:46:33.802Z
 summary: 投资总结得与失
 draft: false
-featured: false
+featured: true
 authors:
   - Avalanche
-tags:
+tags: []
+categories:
   - 投资
 image:
   filename: 2.jpg
